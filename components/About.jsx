@@ -108,9 +108,6 @@ const skillData = [
         name: "Service Mesh",
       },
       {
-        name: "Next.js",
-      },
-      {
         name: "VMWare",
       },
       {
